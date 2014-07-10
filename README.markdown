@@ -1,6 +1,19 @@
 The NERD Tree
 =============
 
+Fork
+----
+
+I forked this repo to change the following behavior:
+   * The 'cd' command now actually does a lcd in vim. 
+
+This means multiple tabs can all use nerdtree to modify the path without
+interfering with each other.
+
+I use this functionality as I use nerd tree bookmarks to jump back and
+forthe between multiple projects, and liked having the ability to easily
+switch a new tab to have a different working directory.
+
 Intro
 -----
 
